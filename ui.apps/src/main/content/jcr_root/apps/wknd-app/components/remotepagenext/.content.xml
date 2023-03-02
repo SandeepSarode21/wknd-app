@@ -4,3 +4,4 @@
     jcr:title="WKND App Remote Next.js Page"
     sling:resourceSuperType="spa-project-core/components/remotepagenext"
     componentGroup=".hidden"/>
+        
